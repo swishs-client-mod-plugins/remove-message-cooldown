@@ -1,0 +1,10 @@
+{
+  "name": "Remove Message Cooldown",
+  "author": {
+    "name": "Swishilicous",
+    "id": "474322346937810955"
+  },
+  "description": "Removes that annoying \"Enter the chill zone\" modal that pops up when you try to send more than 5 messages.",
+  "version": "1.0.0",
+  "id": "swish.remove-message-cooldown"
+}
